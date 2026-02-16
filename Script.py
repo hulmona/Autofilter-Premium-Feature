@@ -268,7 +268,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>
 
   PREMIUM_TEXT = """AVAILABLE PLANS
 
-07 DAYS - 10
+7 DAYS - 10
 15 DAYS - 20
 30 DAYS - 40
 45 DAYS - 55
