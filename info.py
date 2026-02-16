@@ -19,10 +19,12 @@ DATABASE_URI2 = environ.get('DATABASE_URI2', "")  # MongoDB URI for the second d
 # ============================
 # Movie Notification & Update Settings
 # ============================
-MOVIE_UPDATE_NOTIFICATimport re
-import os
-from os import environ, getenv
-from Script import script
+# ============================
+# Movie Notification & Update Settings
+# ============================
+
+MOVIE_UPDATE_NOTIFICATION = bool(environ.get('MOVIE_UPDATE_NOTIFICATION', False))
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-100'))
 
 # Utility functions
 id_pattern = re.compile(r'^.\d+$')
