@@ -249,7 +249,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 ɢᴇɴʀᴇ : {genres}
 ᴀᴜᴅɪᴏ : {languages}
 
-sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
+sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>
 <b>ʀᴇǫ ʙʏ : {message.from_user.mention}</b>"""
 
     LOGO = r"""
