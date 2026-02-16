@@ -251,9 +251,6 @@ Shown in : {remaining_seconds} sec
 Req by : {message.from_user.mention}
 """
 
-sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>
-<b>ʀᴇǫ ʙʏ : {message.from_user.mention}</b>"""
-
     LOGO = """
 
     #PLANS
