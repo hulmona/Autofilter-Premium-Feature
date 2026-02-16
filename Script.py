@@ -251,7 +251,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>Req by :</b> {message.from_user.mention}
 """
 
-    LOGO = """
+LOGO = """
 <b>BOT WORKING PROPERLY....</b>
 """
 
