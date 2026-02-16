@@ -243,7 +243,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🔎 <b>Search
 
 IMDB_TEMPLATE_TXT = """
-
 Rating : {rating}
 Genre : {genres}
 Audio : {languages}
