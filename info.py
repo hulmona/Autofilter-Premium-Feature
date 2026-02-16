@@ -4,7 +4,6 @@ PREMIUM_PLANS = {
     40: "1month",
     55: "45day",
     75: "60day"
-}
 }  # Premium plans with their respective durations in days
 
 # ============================
