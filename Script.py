@@ -243,8 +243,6 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 🔎 <b>Search
 
     IMDB_TEMPLATE_TXT = """
-<b>Genre :</b> {genres}
-<b>Audio :</b> {languages}
 
 <b>Shown in :</b> {remaining_seconds} sec
 <b>Req by :</b> {message.from_user.mention}
