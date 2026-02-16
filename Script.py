@@ -244,9 +244,13 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 IMDB_TEMPLATE_TXT = """<b><a href="{url}">{title}</a> ({year})</b>
 
-<b>Rating:</b> {rating}
-<b>Genres:</b> {genres}
-<b>Language:</b> {languages}
+Rating : {rating}
+Genre : {genres}
+Audio : {languages}
+
+Shown in : {remaining_seconds} sec
+Req by : {message.from_user.mention}
+"""
 
 <b>Shown in:</b> {remaining_seconds} sec
 <b>Req by:</b> {message.from_user.mention}
