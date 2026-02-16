@@ -242,13 +242,13 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 🔎 <b>Search
 
-IMDB_TEMPLATE_TXT = f"""
+IMDB_TEMPLATE_TXT = """
 Rating : {rating}
 Genre : {genres}
 Audio : {languages}
 
-Shown in : {remaining_seconds} sec
-Req by : {message.from_user.mention}
+Shown in : {} sec
+Req by : {}
 """
 
     LOGO = """
