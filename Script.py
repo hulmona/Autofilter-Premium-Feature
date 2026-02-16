@@ -263,14 +263,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     PREMIUM_TEXT = """
 <blockquote> <b>AVAILABLE PLANS</b>
 
- 7 DAYS - 10 ₹ / 10 STAR
- 15 DAYS - 20 ₹ / 20 STAR
- 30 DAYS - 40 ₹ / 40 STAR
- 45 DAYS - 55 ₹ / 55 STAR
- 60 DAYS - 75 ₹ / 75 STAR
+ 7 DAYS - 10 rs / 10 STAR
+ 15 DAYS - 20 rs / 20 STAR
+ 30 DAYS - 40 rs / 40 STAR
+ 45 DAYS - 55 rs / 55 STAR
+ 60 DAYS - 75 rs / 75 STAR
 
 ──────────────────
-📢 <a href='https://t.me/MOVIEUNIVERSEOF'>SUBSCRIBE CHANNEL</a></blockquote>
+ <a href='https://t.me/MOVIEUNIVERSEOF'>SUBSCRIBE CHANNEL</a></blockquote>
 """
 
   
