@@ -247,8 +247,8 @@ Rating : {rating}
 Genre : {genres}
 Audio : {languages}
 
-Shown in : {} sec
-Req by : {}
+Shown in : {remaining_seconds} sec
+Req by : {req}
 """
 
     LOGO = """
