@@ -1,8 +1,10 @@
+PREMIUM_PLANS = {
     10: "7day",
-    20: "15day",    
-    40: "1month", 
+    20: "15day",
+    40: "1month",
     55: "45day",
-    75: "60day",
+    75: "60day"
+}
 }  # Premium plans with their respective durations in days
 
 # ============================
