@@ -242,9 +242,15 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 🔎 <b>Search
 
+IMDB_TEMPLATE_TXT = """<b><a href="{url}">{title}</a> ({year})</b>
 
-    IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
+<b>Rating:</b> {rating}
+<b>Genres:</b> {genres}
+<b>Language:</b> {languages}
 
+<b>Shown in:</b> {remaining_seconds} sec
+<b>Req by:</b> {message.from_user.mention}
+"""
 ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a>
 ɢᴇɴʀᴇ : {genres}
 ᴀᴜᴅɪᴏ : {languages}
