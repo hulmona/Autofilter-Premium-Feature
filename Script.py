@@ -242,7 +242,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 🔎 <b>Search
 
-IMDB_TEMPLATE_TXT = """<b><a href="{url}">{title}</a> ({year})</b>
+
+IMDB_TEMPLATE_TXT = """<b><a href={url}>{title}</a> ({year})</b>
 
 Rating : {rating}
 Genre : {genres}
@@ -251,13 +252,6 @@ Audio : {languages}
 Shown in : {remaining_seconds} sec
 Req by : {message.from_user.mention}
 """
-
-<b>Shown in:</b> {remaining_seconds} sec
-<b>Req by:</b> {message.from_user.mention}
-"""
-ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a>
-ɢᴇɴʀᴇ : {genres}
-ᴀᴜᴅɪᴏ : {languages}
 
 sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>
 <b>ʀᴇǫ ʙʏ : {message.from_user.mention}</b>"""
