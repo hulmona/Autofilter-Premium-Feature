@@ -261,7 +261,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     PURCHASE_TXT = """SELECT YOUR PAYMENT METHOD."""
 
     PREMIUM_TEXT = """
-<blockquote>🎗 <b>AVAILABLE PLANS</b>
+<blockquote> <b>AVAILABLE PLANS</b>
 
 ⦿ 7 DAYS - 10 ₹ / 10 STAR
 ⦿ 15 DAYS - 20 ₹ / 20 STAR
