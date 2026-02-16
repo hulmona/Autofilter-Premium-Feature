@@ -256,14 +256,14 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """
 
     #PLANS
-    PAGE_TXT = """WHY ARE YOU SO CURIOUS ⁉️"""
+    PAGE_TXT = """WHY ARE YOU SO CURIOUS ??"""
     
     PURCHASE_TXT = """SELECT YOUR PAYMENT METHOD."""
 
     PREMIUM_TEXT = """
-<blockquote>🏅 <b>AVAILABLE PLANS</b>
+<blockquote>🎗 <b>AVAILABLE PLANS</b>
 
-⦿ 07 DAYS - 10 ₹ / 10 STAR
+⦿ 7 DAYS - 10 ₹ / 10 STAR
 ⦿ 15 DAYS - 20 ₹ / 20 STAR
 ⦿ 30 DAYS - 40 ₹ / 40 STAR
 ⦿ 45 DAYS - 55 ₹ / 55 STAR
