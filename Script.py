@@ -251,24 +251,27 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 <b>Req by :</b> {message.from_user.mention}
 """
 
-
-
     LOGO = """
+<b>BOT WORKING PROPERLY....</b>
+"""
 
     #PLANS
+    PAGE_TXT = """WHY ARE YOU SO CURIOUS ⁉️"""
+    
+    PURCHASE_TXT = """SELECT YOUR PAYMENT METHOD."""
 
-    PAGE_TXT = """ᴡʜʏ ᴀʀᴇ ʏᴏᴜ ꜱᴏ ᴄᴜʀɪᴏᴜꜱ """
+    PREMIUM_TEXT = """
+<blockquote>🏅 <b>AVAILABLE PLANS</b>
 
-    PURCHASE_TXT = """ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ."""
+⦿ 07 DAYS - 10 ₹ / 10 STAR
+⦿ 15 DAYS - 20 ₹ / 20 STAR
+⦿ 30 DAYS - 40 ₹ / 40 STAR
+⦿ 45 DAYS - 55 ₹ / 55 STAR
+⦿ 60 DAYS - 75 ₹ / 75 STAR
 
-  PREMIUM_TEXT = """AVAILABLE PLANS
-
-7 DAYS - 10
-15 DAYS - 20
-30 DAYS - 40
-45 DAYS - 55
-60 DAYS - 75
-"""  
+──────────────────
+📢 <a href='https://t.me/MOVIEUNIVERSEOF'>SUBSCRIBE CHANNEL</a></blockquote>
+"""
 
   
 
